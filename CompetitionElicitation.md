@@ -1,14 +1,18 @@
 #Avionics Requirements for SA Cup 2019
 
 
->Avionics Notes:
->Launch System:
+##Avionics Notes:
+###Launch System:
+
 >- A software ignition switch is only for use when the rocket is armed the arming switch is still a manual device.
 >- A kill switch should still be included in the software launching system
->Parachute Deployment
+###Parachute Deployment
+
 >-If the apogee is greater than 1,500ft there needs to be a drogue chute and a main chute deployed seperately.
 >-The drogue chute shall slow the rockets descent to between 75-150 ft/s it shall deploy at apogee
 >-All electroncs must have a redundant non-similar alternative
+
+###Acitve Control Systems
 >-The rocket must be capable of tracking altitude and location via GPS
 >- AirBrakes must be optional for successsful descent and easily aborted.
 
