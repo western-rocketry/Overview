@@ -8,15 +8,15 @@
 >- A kill switch should still be included in the software launching system
 ### Parachute Deployment
 
->-If the apogee is greater than 1,500ft there needs to be a drogue chute and a main chute deployed seperately.
->-The drogue chute shall slow the rockets descent to between 75-150 ft/s it shall deploy at apogee
->-All electroncs must have a redundant non-similar alternative
+>- If the apogee is greater than 1,500ft there needs to be a drogue chute and a main chute deployed seperately.
+>- The drogue chute shall slow the rockets descent to between 75-150 ft/s it shall deploy at apogee
+>- All electroncs must have a redundant non-similar alternative
 
 ### Acitve Control Systems
->-The rocket must be capable of tracking altitude and location via GPS
+>- The rocket must be capable of tracking altitude and location via GPS
 >- AirBrakes must be optional for successsful descent and easily aborted.
 
-Arming & Launch
+## Arming & Launch
 
 A propulsion system is considered armed if only one action (eg an ignition signal) must occur for the propellant(s) to
 ignite
@@ -40,7 +40,7 @@ jumper prevents firing current from being sent to any of the launch rails associ
 Furthermore, access to the socket allowing insertion of the jumper is controlled via multiple physical locks to ensure
 that all parties have positive control of their own safety.
 
-Parachute
+## Parachute
 
 Each independently recovered launch vehicle body anticipated to reach an apogee above 1,500 ft (457 m) above
 ground level (AGL) shall follow a "dual-event" recovery operations concept (CONOPS), including an initial
@@ -56,7 +56,7 @@ wind drift (eg between 75 and 150 ft/s [23-46 m/s]).
 The main deployment event shall occur at an altitude no higher than 1,500 ft (457 m) AGL and reduce the vehicle's
 descent rate sufficiently to prevent excessive damage upon impact with ground (ie less than 30 ft/s [9 m/s)]).
 
-Redundancy
+## Redundancy
 
 Launch vehicles shall implement redundant recovery system electronics, including sensors/flight computers and
 "electric initiators"—assuring initiation by a backup system, with a separate power supply (ie battery), if the primary
@@ -69,7 +69,7 @@ StratoLogger, G-Wiz, Raven, Parrot, Eggtimer, AIM, EasyMini, TeleMetrum, RRC3, e
 may also serve as the official altitude logging system specified in Section 2.5 of the IREC Rules & Requirements
 Document.
 
-Air Brakes & Active Stability
+## Air Brakes & Active Stability
 
 Launch vehicle active flight control systems shall be optionally implemented strictly for pitch and/or roll stability
 augmentation, or for aerodynamic "braking". Under no circumstances will a launch vehicle entered in the IREC be
