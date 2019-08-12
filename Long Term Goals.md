@@ -20,7 +20,7 @@ This document outlines some of the long term goals that need to be completed dur
 - Long range wifi needs to be researched and prootoyped
 
 ## Website
-- A website will need to be created to document the clubs progress ([Done])[www.wereocketry.com]
+- A website will need to be created to document the clubs progress (Done)[www.wereocketry.com]
 
 
 
