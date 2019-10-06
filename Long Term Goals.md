@@ -4,6 +4,7 @@ This document outlines some of the long term goals that need to be completed dur
 ## Air Brakes System
 - Needs review of current repo and code
 - Testing of current code needs to be created
+- Evaluation of code effeciency, consider refactoring code for use on a faster device
 
 ## Parachute Deployment
 - Code needs to be written and documented
